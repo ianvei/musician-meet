@@ -52,3 +52,11 @@
 /Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Humanizer.dll
 /Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ianveilleux/repos/musician-meet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
